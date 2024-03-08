@@ -28,7 +28,7 @@ nbr_dj: 1d6
 moral: 6
 xp: "25"
 nbr: 0 
-loot: [[2. Treasure Types#Type D (3 900 po en moyenne)|D]]
+loot: [[2. Types de trésors#Type D (3 900 po en moyenne)|D]]
 traits:
   - name: Liée aux arbres
     desc: "Reliée spirituellement à un arbre. Si cet arbre meurt ou si elle s’en éloigne de plus de 72 m, elle meurt."

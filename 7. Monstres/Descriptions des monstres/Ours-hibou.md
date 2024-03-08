@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 175
 nbr: 1d4
 nbr_dj: 1d4
-loot: [[2. Treasure Types#Type C (1 000 po en moyenne)|C]]
+loot: [[2. Types de trésors#Type C (1 000 po en moyenne)|C]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

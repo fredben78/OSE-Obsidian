@@ -29,7 +29,7 @@ moral: 8
 xp: "725"
 nbr: 1d4
 nbr_dj: 1d4
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: "Cône de froid de 24 m de long, 60 cm de large à l’entrée, 9 m à l’extrémité."

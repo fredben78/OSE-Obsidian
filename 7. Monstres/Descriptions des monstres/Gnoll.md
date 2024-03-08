@@ -26,7 +26,7 @@ alignement: Chaotique
 xp: 20 (leader:35)
 nbr: 1d6
 nbr_dj: 3d6
-loot: [[2. Treasure Types#Type D (3 900 po en moyenne)|D]]
+loot: [[2. Types de trésors#Type D (3 900 po en moyenne)|D]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

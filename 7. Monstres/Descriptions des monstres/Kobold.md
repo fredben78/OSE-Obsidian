@@ -26,7 +26,7 @@ alignement: Chaotique
 xp: "5 (garde du corps : 15, chef de tribu : 20)"
 nbr: 4d4
 nbr_dj: 6d10
-loot: [[2. Treasure Types#Type P (0,1 po en moyenne)|P]] ([[2. Treasure Types#Type J (25 po en moyenne)|J]])
+loot: [[2. Types de trésors#Type P (0,1 po en moyenne)|P]] ([[2. Types de trésors#Type J (25 po en moyenne)|J]])
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

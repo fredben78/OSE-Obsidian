@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 1200
 nbr: 1d4+1
 nbr_dj: 2d4
-loot: [[2. Treasure Types#Type F (7 700 po en moyenne)|F]]
+loot: [[2. Types de trésors#Type F (7 700 po en moyenne)|F]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

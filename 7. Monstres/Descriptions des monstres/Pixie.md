@@ -24,7 +24,7 @@ jds: [12,13,13,15,15,(E1)]
 moral: 7
 alignement: Neutre
 xp: 13
-loot: [[2. Treasure Types#Type R (3 po en moyenne)|R]] ([[2. Treasure Types#Type S (5 po en moyenne)|S]])
+loot: [[2. Types de trésors#Type R (3 po en moyenne)|R]] ([[2. Types de trésors#Type S (5 po en moyenne)|S]])
 nbr: 2d4
 nbr_dj: 1d4*10
 traits:

@@ -26,7 +26,7 @@ alignement: Chaotique
 xp: 12 (chef:300)
 nbr: 1d6
 nbr_dj: 2d6
-loot: [[2. Treasure Types#Type C (1 000 po en moyenne)|C]]
+loot: [[2. Types de trésors#Type C (1 000 po en moyenne)|C]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

@@ -29,7 +29,7 @@ moral: 7
 xp: "10"
 nbr: 1d8 
 nbr_dj: 1d20
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]]
 forceColumns: true
 columns: 1
 traits:

@@ -28,7 +28,7 @@ nbr_dj: 4d6
 moral: 7(12 en mêlée)
 xp: "125"
 nbr: 2d4
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]]
 traits:
   - name: Rapace
     desc: "Consomment tout sur leur passage lorsqu’elles ont faim."

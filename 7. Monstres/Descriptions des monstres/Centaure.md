@@ -28,7 +28,7 @@ moral: 8
 xp: "75"
 nbr: 0 
 nbr_dj: 1d6
-loot: [[2. Treasure Types#Type A (18 000 po en moyenne)|A]]
+loot: [[2. Types de trésors#Type A (18 000 po en moyenne)|A]]
 forceColumns: true
 columns: 1
 traits:

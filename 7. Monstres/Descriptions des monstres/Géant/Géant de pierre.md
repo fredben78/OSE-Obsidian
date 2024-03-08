@@ -26,7 +26,7 @@ alignement: Neutre
 xp: "900"
 nbr: 1d2
 nbr_dj: 1d6
-loot: [[2. Treasure Types|E]] + 5000po
+loot: [[2. Types de trésors|E]] + 5000po
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

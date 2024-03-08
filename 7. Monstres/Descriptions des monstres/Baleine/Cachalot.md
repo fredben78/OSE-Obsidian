@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 6250
 nbr: 0
 nbr_dj: 1d3
-loot: [[2. Treasure Types#Type V (330 po en moyenne)|V]]
+loot: [[2. Types de trésors#Type V (330 po en moyenne)|V]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

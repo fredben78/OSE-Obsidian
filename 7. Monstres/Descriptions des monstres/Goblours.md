@@ -28,7 +28,7 @@ moral: 9
 xp: "50"
 nbr_dj: 5d4
 nbr: 2d4
-loot: [[2. Treasure Types#Type B (2 000 po en moyenne)|B]]
+loot: [[2. Types de trésors#Type B (2 000 po en moyenne)|B]]
 traits:
   - name: Surprise
     desc: " Très discret, surprend sur un résultat de 1-3."

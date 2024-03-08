@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 13
 nbr: 1d10
 nbr_dj: 3d12
-loot: [[2. Treasure Types#Type L (240 po en moyenne)|L]]
+loot: [[2. Types de trésors#Type L (240 po en moyenne)|L]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

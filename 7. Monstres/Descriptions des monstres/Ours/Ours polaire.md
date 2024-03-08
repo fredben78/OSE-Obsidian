@@ -29,7 +29,7 @@ roll_jds: 1d20
 roll-moral: 2d6
 nbr: 1
 nbr_dj: 1d2
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]]
 traits:
   - name: Étreinte d’ours
     desc: "Si un adversaire est touché par les deux pattes d’un ours le même round, l’étreinte de l’ours lui inflige 8 (2d8) points de dégâts automatiques supplémentaires."

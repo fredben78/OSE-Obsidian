@@ -29,7 +29,7 @@ roll-moral: 2d6
 xp: "2300"
 nbr: 1d4
 nbr_dj: 1d4
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: "Cône de feu de 27m de long. 60 cm de large à l’entrée, 9 m à l’extrémité. "

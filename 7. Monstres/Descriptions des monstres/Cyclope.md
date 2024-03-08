@@ -29,7 +29,7 @@ moral: 9
 xp: "2300"
 nbr: 1  
 nbr_dj: 1d4
-loot: [[2. Treasure Types#Type E (2 300 po en moyenne)|E]] + 5000 PO
+loot: [[2. Types de trésors#Type E (2 300 po en moyenne)|E]] + 5000 PO
 forceColumns: true
 columns: 1
 traits:

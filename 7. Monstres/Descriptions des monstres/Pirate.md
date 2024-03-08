@@ -26,7 +26,7 @@ alignement: Chaotique
 xp: 10 
 nbr: 0
 nbr_dj: (voir ci-dessous)
-loot: [[2. Treasure Types#Type A (18 000 po en moyenne)|A]]
+loot: [[2. Types de trésors#Type A (18 000 po en moyenne)|A]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

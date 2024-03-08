@@ -29,7 +29,7 @@ moral: 9
 xp: "450"
 nbr: 1d2 
 nbr_dj: 1d2
-loot: [[2. Treasure Types#Type V (330 po en moyenne)|V]]
+loot: [[2. Types de trésors#Type V (330 po en moyenne)|V]]
 traits:
   - name: Étreinte d’ours
     desc: "Si un adversaire est touché par les deux pattes d’un ours le même round, l’étreinte de l’ours lui inflige 8 (2d8) points de dégâts automatiques supplémentaires."

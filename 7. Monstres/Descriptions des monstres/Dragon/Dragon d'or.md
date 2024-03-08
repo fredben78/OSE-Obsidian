@@ -29,7 +29,7 @@ nbr_dj: 1d4
 moral: 10
 xp: "2700"
 nbr: 1d4
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: "Cône de feu ou nuage de chlore gazeux de 27 m de long."

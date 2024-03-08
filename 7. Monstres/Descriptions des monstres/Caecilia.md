@@ -28,7 +28,7 @@ moral: 9
 xp: "500"
 nbr: 1d3
 nbr_dj: 1d3
-loot: [[2. Treasure Types#Type B (2 000 po en moyenne)|B]]
+loot: [[2. Types de trésors#Type B (2 000 po en moyenne)|B]]
 forceColumns: true
 columns: 1
 traits:

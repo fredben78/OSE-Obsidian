@@ -28,7 +28,7 @@ moral: 6 (8 avec un chef)
 xp: "10 (chef : 10, chef de tribu : 75)"
 nbr: 2d4
 nbr_dj: 1d6*10
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]]
 traits:
   - name: Déteste le soleil
     desc: Malus de –1 à ses attaques en plein jour.

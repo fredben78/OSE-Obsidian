@@ -28,7 +28,7 @@ nbr_dj: 1
 moral: 10
 xp: "9000"
 nbr: 0 
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: "Nuage de vapeur de 27 m de long et de 9 m de large. Peut être utilisé jusqu’à trois fois par jour. Toutes les personnes présentes dans la zone subissent des dégâts égaux aux points de vie actuels du dragon-tortue (jet de sauvegarde contre les souffles pour n’en subir que la moitié)."

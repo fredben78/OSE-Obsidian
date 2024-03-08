@@ -29,7 +29,7 @@ moral: 9
 xp: "1750"
 nbr: 3 (1d4), 2 (1d4) 
 nbr_dj: 2d6
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: "Nuage de gaz chloré. 15 m de long, 12 m de large, 6 m de haut."

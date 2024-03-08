@@ -28,7 +28,7 @@ moral: 6
 xp: "125"
 nbr: 1d6
 nbr_dj: 1d6
-loot: [[2. Treasure Types#Type C (1 000 po en moyenne)|C]]
+loot: [[2. Types de trésors#Type C (1 000 po en moyenne)|C]]
 forceColumns: true
 columns: 1
 traits:

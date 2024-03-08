@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 6
 nbr: 3d6
 nbr_dj: 5d8
-loot: [[2. Treasure Types#Type S (5 po en moyenne)|S]]
+loot: [[2. Types de trésors#Type S (5 po en moyenne)|S]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

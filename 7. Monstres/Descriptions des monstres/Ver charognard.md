@@ -29,7 +29,7 @@ roll-moral: 2d6
 xp: "75"
 nbr: 1d3
 nbr_dj: 1d3
-loot: [[2. Treasure Types#Type B (2 000 po en moyenne)|B]]
+loot: [[2. Types de trésors#Type B (2 000 po en moyenne)|B]]
 traits:
   - name: Paralysie
     desc: "L’attaque réussie d’un tentacule provoque une paralysie pour 2d4 tours (jet de sauvegarde contre la paralysie). Les victimes paralysées sont dévorées si le charognard est laissé tranquille."

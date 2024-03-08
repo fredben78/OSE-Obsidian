@@ -28,7 +28,7 @@ nbr_dj: 2d4
 moral: 11
 xp: "75"
 nbr: 1d6
-loot: [[2. Treasure Types#Type C (1 000 po en moyenne)|C]]
+loot: [[2. Types de trésors#Type C (1 000 po en moyenne)|C]]
 traits:
   - name: Se confond avec la pierre
     desc: "Peut passer inaperçue ou être confondue avec une statue inanimée."

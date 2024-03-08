@@ -30,7 +30,7 @@ xp: "10"
 nbr: 0 
 forceColumns: true
 columns: 2
-loot: [[2. Treasure Types#Type A (18 000 po en moyenne)|A]]
+loot: [[2. Types de trésors#Type A (18 000 po en moyenne)|A]]
 traits:
   - name: Monté 
     desc: "Sur des [[Cheval#Cheval de guerre|chevaux de guerre]]."

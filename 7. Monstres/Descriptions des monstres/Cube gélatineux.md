@@ -28,7 +28,7 @@ roll-moral: 2d6
 xp: "125"
 nbr: 1 
 nbr_dj: 0
-loot: [[2. Treasure Types#Type V (330 po en moyenne)|V]]
+loot: [[2. Types de trésors#Type V (330 po en moyenne)|V]]
 forceColumns: true
 columns: 1
 traits:

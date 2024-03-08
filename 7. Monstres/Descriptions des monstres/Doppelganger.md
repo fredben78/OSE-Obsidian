@@ -30,7 +30,7 @@ xp: "125"
 nbr: 1d6
 forceColumns: true
 columns: 1
-loot: [[2. Treasure Types#Type E (2 300 po en moyenne)|E]]
+loot: [[2. Types de trésors#Type E (2 300 po en moyenne)|E]]
 traits:
   - name: Vol d’apparence
     desc: "Peut adopter la forme d’une créature de taille humaine (2,10 m ou moins) qu’il a observée, avant de l’attaquer."

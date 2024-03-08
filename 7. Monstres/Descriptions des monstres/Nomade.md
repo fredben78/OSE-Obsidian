@@ -26,7 +26,7 @@ alignement: Tous
 xp: 10
 nbr: 0
 nbr_dj: 1d4*10
-loot: [[2. Treasure Types#Type A (18 000 po en moyenne)|A]]
+loot: [[2. Types de trésors#Type A (18 000 po en moyenne)|A]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6
@@ -44,7 +44,7 @@ traits:
   - name: Chefs de camp
     desc: "Par groupe de 100 nomades, on trouve un chef de tribu (guerrier de 8e niveau), plus un guerrier de 5e niveau. \n 50% de chances qu’il y ait un clerc (9e niveau) \n 25% de chances qu’il y ait un magicien (8e niveau)."
   - name: Butin
-    desc: "Ne possèdent qu’un trésor de [[2. Treasure Types#Type A (18 000 po en moyenne)|type A]] lorsqu’on les rencontre dans le camp."
+    desc: "Ne possèdent qu’un trésor de [[2. Types de trésors#Type A (18 000 po en moyenne)|type A]] lorsqu’on les rencontre dans le camp."
   - name: Commerçants
     desc: Ils acceptent souvent de raconter des récits de pays lointains dont ils ont entendu parler sur les routes commerciales.
 actions:

@@ -28,7 +28,7 @@ roll-moral: 2d6
 xp: "10"
 nbr: 0
 nbr_dj: 1d4*10
-loot: [[2. Treasure Types#Type A (18 000 po en moyenne)|A]]
+loot: [[2. Types de trésors#Type A (18 000 po en moyenne)|A]]
 forceColumns: true
 columns: 2
 traits:

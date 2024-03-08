@@ -29,7 +29,7 @@ nbr_dj: 1d3
 moral: 9
 xp: "275"
 nbr: 1
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]]
 traits:
   - name: Poursuite
     desc: "Poursuivent toujours leurs proies en fuite."

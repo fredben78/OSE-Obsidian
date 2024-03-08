@@ -26,7 +26,7 @@ alignement: Loyal
 xp: "5 (garde:20)"
 nbr: 3d6
 nbr_dj: 5d8
-loot: [[2. Treasure Types#Trésor de groupe U et V|V]] ([[2. Treasure Types#Type B (2 000 po en moyenne)|B]])
+loot: [[2. Types de trésors#Trésor de groupe U et V|V]] ([[2. Types de trésors#Type B (2 000 po en moyenne)|B]])
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

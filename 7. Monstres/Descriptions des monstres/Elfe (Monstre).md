@@ -28,7 +28,7 @@ nbr_dj: 2d12
 moral: 8 (10 avec un chef)
 xp: "19"
 nbr: 1d4 
-loot: [[2. Treasure Types#Type E (2 300 po en moyenne)|E]]
+loot: [[2. Types de trésors#Type E (2 300 po en moyenne)|E]]
 traits:
   - name: Sorts
     desc: "Chaque individu connaît un sort arcanique de 1er niveau choisi au hasard."

@@ -32,7 +32,7 @@ alignement: Chaotique
 xp: "5 (garde du corps: 20, roi: 35)"
 nbr_dj: 6d10
 nbr: 2d4
-loot: [[2. Treasure Types#Type R (3 po en moyenne)|R]] ([[2. Treasure Types#Type C (1 000 po en moyenne)|C]])
+loot: [[2. Types de trésors#Type R (3 po en moyenne)|R]] ([[2. Types de trésors#Type C (1 000 po en moyenne)|C]])
 traits:
   - name: Infravision
     desc: 27m

@@ -29,7 +29,7 @@ moral: 8
 nbr_dj: 1d4
 xp: "1250"
 nbr: 1d4 
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: Ligne d'acide de 18m de long, 1,50 m de large sur toute la longueur.

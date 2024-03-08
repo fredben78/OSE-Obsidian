@@ -29,7 +29,7 @@ nbr_dj: 1d4
 moral: 10
 xp: "650"
 nbr: 1d4
-loot: [[2. Treasure Types#Type V (330 po en moyenne)|V]]
+loot: [[2. Types de trésors#Type V (330 po en moyenne)|V]]
 traits:
   - name: Poursuite
     desc: "Poursuivent toujours leurs proies en fuite."

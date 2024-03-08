@@ -26,7 +26,7 @@ alignement: Neutre
 xp: "450"
 nbr: 0
 nbr_dj: 2d8
-loot: [[2. Treasure Types#Type E (2 300 po en moyenne)|E]]
+loot: [[2. Types de trésors#Type E (2 300 po en moyenne)|E]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

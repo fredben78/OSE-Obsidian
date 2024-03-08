@@ -29,7 +29,7 @@ moral: 9
 nbr_dj: 1d4
 xp: "1750"
 nbr: 0 
-loot: [[2. Treasure Types#Type H (60 000 po en moyenne)|H]]
+loot: [[2. Types de trésors#Type H (60 000 po en moyenne)|H]]
 traits:
   - name: Souffle
     desc: "Crachat de poison de 6 m de diamètre et d’une portée de 30 m. Jet de sauvegarde contre les souffles ou meurt (le poison est inoffensif après 1 round)."

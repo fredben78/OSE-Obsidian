@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 20
 nbr: 2d6
 nbr_dj: 5d6
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

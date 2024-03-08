@@ -26,7 +26,7 @@ alignement: Loyal
 xp: 1100
 nbr: 0
 nbr_dj: 1d8
-loot: [[2. Treasure Types#Type I (11 000 po en moyenne)|I]]
+loot: [[2. Types de trésors#Type I (11 000 po en moyenne)|I]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

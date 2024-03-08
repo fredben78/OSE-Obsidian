@@ -26,7 +26,7 @@ alignement: Neutre
 xp: 5
 nbr: 5d10
 nbr_dj: 2d10
-loot: [[2. Treasure Types#L|L]]
+loot: [[2. Types de trésors#L|L]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6

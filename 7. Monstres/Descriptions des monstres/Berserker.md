@@ -28,7 +28,7 @@ roll-moral: 2d6
 xp: "19"
 nbr: 1d6
 nbr_dj: 3d10
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]] ([[2. Treasure Types#Type B (2 000 po en moyenne)|B]])
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]] ([[2. Types de trésors#Type B (2 000 po en moyenne)|B]])
 forceColumns: true
 columns: 1
 traits:

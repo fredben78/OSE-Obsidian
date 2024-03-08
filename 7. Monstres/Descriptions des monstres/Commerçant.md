@@ -26,7 +26,7 @@ alignement: Tous
 xp: 10
 nbr: 1d8
 nbr_dj: 3d6
-loot: [[2. Treasure Types#Type U (160 po en moyenne)|U]] [[2. Treasure Types#Type V (330 po en moyenne)|V]]
+loot: [[2. Types de trésors#Type U (160 po en moyenne)|U]] [[2. Types de trésors#Type V (330 po en moyenne)|V]]
 hp: 3
 roll_jds: 1d20
 roll-moral: 2d6
