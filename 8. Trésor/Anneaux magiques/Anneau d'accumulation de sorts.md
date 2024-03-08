@@ -7,7 +7,7 @@ Type: core
 
 Stocke un certain nombre de sorts magiques que le porteur peut lancer sur commande.
 
-- **Capacité :** L’anneau contient 1d6 sorts. Ces sorts peuvent être déclenchés et rechargés, mais ne peuvent pas être modifiés.
+- **Capacité :** L’anneau contient `dice: 1d6` sorts. Ces sorts peuvent être déclenchés et rechargés, mais ne peuvent pas être modifiés.
 - **Type de magie :** Il y a 20 % de chances que les sorts soient de type divin ; sinon, ce sont des sorts arcaniques.
 - **Connaissances :** Le porteur de l’anneau sait quels sorts il contient.
 - **Déclenchement :** Le porteur de l’anneau peut déclencher les sorts à volonté (jusqu’à un sort par round).

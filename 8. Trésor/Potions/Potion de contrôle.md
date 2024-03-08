@@ -13,7 +13,7 @@ Une potion de ce type permet à celui qui la boit de contrôler les actions des 
 
 ### Potion de contrôle des animaux
 
-- **Affecte :** Jusqu’à 3d6 Dés de vie d’animaux normaux ou géants (mais pas magiques).
+- **Affecte :** Jusqu’à `dice: 3d6` Dés de vie d’animaux normaux ou géants (mais pas magiques).
 - **Lorsque l’effet de la potion prend fin :** Les animaux affectés s’éloignent.
 
 ### Potion de contrôle de dragon
@@ -40,5 +40,5 @@ Une potion de ce type permet à celui qui la boit de contrôler les actions des 
 
 ### Potion de contrôle des morts-vivants
 
-- **Affecte :** Jusqu’à 3d6 Dés de vie de morts-vivants.
+- **Affecte :** Jusqu’à `dice: 3d6` Dés de vie de morts-vivants.
 - **Lorsque l’effet de la potion prend fin :** Les morts-vivants affectés ont une réaction hostile.
