@@ -9,7 +9,7 @@ Duree:
 Portee: 
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 

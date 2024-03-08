@@ -11,7 +11,7 @@ Portee:
   - Le lanceur
 Classe:
   - Clerc
-share: "true"
+
 ---
 # `=this.file.name`  
 

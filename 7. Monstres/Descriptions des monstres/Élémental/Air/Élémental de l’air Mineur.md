@@ -2,7 +2,7 @@
 JDR: OSE
 Type:
   - core
-share: true
+
 tags:
   - monster
 statblock: inline

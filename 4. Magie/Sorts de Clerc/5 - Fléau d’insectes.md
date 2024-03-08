@@ -12,7 +12,7 @@ Portee:
   - 144 mètres
 Classe:
   - Clerc
-share: "true"
+
 ---
 # `=this.file.name`  
 

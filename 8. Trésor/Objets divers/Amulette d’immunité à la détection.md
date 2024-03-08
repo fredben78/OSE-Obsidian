@@ -2,7 +2,7 @@
 JDR: OSE
 Type:
   - core
-share: true
+
 ---
 # Amulette d’immunité à la détection
 

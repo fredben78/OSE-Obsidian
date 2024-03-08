@@ -13,7 +13,7 @@ Portee:
   - touchée
 Classe:
   - Clerc
-share: true
+
 ---
 # `=this.file.name`
 
@@ -29,4 +29,4 @@ Ce sort a deux usages :
 2. **Guérir la paralysie** : Les effets paralysants sont annulés.
 
 ## Inversé : Blessures légères
-Inflige 1d6+1 points de dégâts à une créature touchée. En combat, un jet d’attaque de mêlée est nécessaire.
+Inflige `dice: 1d6+1` points de dégâts à une créature touchée. En combat, un jet d’attaque de mêlée est nécessaire.

@@ -1,7 +1,7 @@
 ---
 JDR: OSE
 Type: core
-share: true
+
 ---
 Un petit sac d’apparence normale qui dévore les objets placés à l’intérieur.
 

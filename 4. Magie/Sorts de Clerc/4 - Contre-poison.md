@@ -14,7 +14,7 @@ Portee:
   - touchée
 Classe:
   - Clerc
-share: "true"
+
 ---
 # `=this.file.name`  
 

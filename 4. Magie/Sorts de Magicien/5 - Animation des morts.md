@@ -13,7 +13,7 @@ Classe:
   - Magicien
 aliases:
   - Nécro-animation
-share: "true"
+
 ---
 # `=this.file.name`  (Nécro-animation)
 

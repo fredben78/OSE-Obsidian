@@ -1,7 +1,7 @@
 ---
 JDR: OSE
 Type: core
-share: true
+
 ---
 # Bâton de contrecoup
 

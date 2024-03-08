@@ -12,7 +12,7 @@ Portee:
   - Le lanceur
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 

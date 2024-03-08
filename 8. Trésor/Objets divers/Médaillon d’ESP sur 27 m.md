@@ -1,7 +1,7 @@
 ---
 JDR: OSE
 Type: core
-share: true
+
 ---
 # Médaillon d’ESP sur 27 m
 

@@ -11,7 +11,7 @@ Portee:
   - 36 mètres
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 
@@ -21,7 +21,7 @@ share: "true"
 
 **Portée** : `=this.Portee`
 
-Ce sort rend confuses 3d6 cibles dans un rayon de 18 m, incapables par elles-mêmes de décider de leur action.
+Ce sort rend confuses `dice: (3d6)` cibles dans un rayon de 18 m, incapables par elles-mêmes de décider de leur action.
 
 - **Cibles de 2+1 DV ou plus** : Elles peuvent effectuer un jet de sauvegarde contre les sorts chaque round pour résister à l’effet du sort, agissant librement ce round-ci en cas de réussite.
 - **Cibles de 2 DV ou moins** : Elles ne peuvent pas effectuer de jet de sauvegarde.
@@ -29,7 +29,7 @@ Ce sort rend confuses 3d6 cibles dans un rayon de 18 m, incapables par elles-mê
 
 ### Confusion : comportement de la cible
 
-| 2d6  | Comportement              |
+| `dice: (2d6)`  | Comportement              |
 | :--: | :--------------------- |
 | 2-5  | Attaque le groupe du lanceur  |
 | 6-8  | Aucune action              |

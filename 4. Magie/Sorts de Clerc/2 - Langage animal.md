@@ -11,7 +11,7 @@ Portee:
   - 9 mètres
 Classe:
   - Clerc
-share: true
+
 ---
 # `=this.file.name`  
 

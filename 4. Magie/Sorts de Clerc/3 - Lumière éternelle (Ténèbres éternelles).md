@@ -11,7 +11,7 @@ niveau: 3
 JDR: OSE
 Classe:
   - Clerc
-share: true
+
 ---
 # `=this.file.name`  (C)
 

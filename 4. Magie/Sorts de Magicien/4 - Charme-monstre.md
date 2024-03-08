@@ -11,7 +11,7 @@ Portee:
   - 36 mètres
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 
@@ -21,7 +21,7 @@ share: "true"
 
 **Portée** : `=this.Portee`
 
-Le sort place un enchantement sur 3d6 créatures de 3 DV ou moins, ou sur une unique créature de plus de 3 DV. La créature doit faire un jet de sauvegarde contre les sorts ou être charmé comme suit :
+Le sort place un enchantement sur `dice: (3d6)` créatures de 3 DV ou moins, ou sur une unique créature de plus de 3 DV. La créature doit faire un jet de sauvegarde contre les sorts ou être charmé comme suit :
 
 - **Amitié** : La cible considère le lanceur comme un allié et un ami digne de confiance, qu’elle défendra si nécessaire.
 - **Ordres** : S’ils ont une langue en commun, le lanceur peut donner des ordres à la créature charmée, qui obéira.

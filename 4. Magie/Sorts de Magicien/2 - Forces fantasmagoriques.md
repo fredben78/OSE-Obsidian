@@ -11,7 +11,7 @@ Portee:
   - 72 mètres
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 
@@ -30,5 +30,5 @@ Le lanceur fait apparaître une illusion de son choix à l’intérieur d’une 
 **Conditions** :
 
 - **Concentration** : Elle est requise pour maintenir l’illusion. Si le lanceur se déplace ou perd sa concentration, le sort prend fin.
-- **Monstres et attaques illusoires** : Ces illusions peuvent sembler dangereuses, mais elles n’infligent pas de dégâts réels. Un personnage qui semble mourir est en fait inconscient, un personnage transformé en pierre est paralysé, etc. De tels effets durent 1d4 tours.
+- **Monstres et attaques illusoires** : Ces illusions peuvent sembler dangereuses, mais elles n’infligent pas de dégâts réels. Un personnage qui semble mourir est en fait inconscient, un personnage transformé en pierre est paralysé, etc. De tels effets durent `dice: (1d4)` tours.
 - **Illusions issues de l’imagination** : Si le lanceur crée l’illusion de quelque chose qu’il n’a jamais vu, l’arbitre pourra accorder à la cible un bonus aux jets de sauvegarde applicables.

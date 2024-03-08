@@ -11,7 +11,7 @@ Portee:
   - 3 mètres
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 
@@ -29,7 +29,7 @@ Le lanceur ou une créature choisie disparaît et réapparaît à un endroit cho
 - **Risque** : Il existe un risque, lors de la téléportation, d'arriver accidentellement au-dessus ou au-dessous du niveau du sol. Les chances de réussite de la téléportation dépendent de la connaissance qu’a le lanceur de la destination (voir à droite). Lancez un dé de pourcentage et consultez le tableau ci-dessous.
 
 ## Résultat de la téléportation
-
+Test de téléportation : `dice: 1d100`
 | Connaissance de la dest. | Niveau du sol | Trop haut | Trop bas |
 | :--- | ---- | ---- | ---- |
 | Faible | 01–50 | 51–75 | 76–00 |
@@ -38,7 +38,7 @@ Le lanceur ou une créature choisie disparaît et réapparaît à un endroit cho
 
 **Niveau du sol** : La cible apparaît à la destination souhaitée.
 
-**Trop haut** : La cible apparaît 1d10 × 3 m au-dessus de la destination prévue. Si cet endroit est déjà occupé par de la matière solide, la cible meurt immédiatement. Sinon, elle tombe de cette hauteur.
+**Trop haut** : La cible apparaît `dice: (1d10*3)` m au-dessus de la destination prévue. Si cet endroit est déjà occupé par de la matière solide, la cible meurt immédiatement. Sinon, elle tombe de cette hauteur.
 
 **Trop bas** : La cible apparaît dans le sol et meurt instantanément.
 

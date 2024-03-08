@@ -11,7 +11,7 @@ Portee:
   - 9 mètres
 Classe:
   - Clerc
-share: true
+
 ---
 # `=this.file.name`  
 
@@ -29,7 +29,7 @@ Ce sort à deux usages :
 ## Inversé : Contamination
 Inflige une terrible et foudroyante maladie à une victime, si celle-ci rate son jet de sauvegarde contre les sorts. La maladie possède les effets suivants :
 
-- **Mort** : Sous 2d12 jours.
+- **Mort** : Sous `dice: 2d12` jours.
 - **Malus à l’attaque** : –2 aux jets d’attaque.
 - **Guérison naturelle** : Prend deux fois plus de temps.
 - **Guérison magique** : Est complètement inefficace.

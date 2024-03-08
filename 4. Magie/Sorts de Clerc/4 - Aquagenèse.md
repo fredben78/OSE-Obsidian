@@ -11,7 +11,7 @@ Portee:
   - Toucher
 Classe:
   - Clerc
-share: "true"
+
 ---
 # `=this.file.name`  
 

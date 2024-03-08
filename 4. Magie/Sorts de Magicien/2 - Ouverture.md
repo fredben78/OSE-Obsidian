@@ -11,7 +11,7 @@ Portee:
   - 18 mètres
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 

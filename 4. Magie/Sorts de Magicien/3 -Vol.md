@@ -14,7 +14,7 @@ Portee:
   - touchée
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 

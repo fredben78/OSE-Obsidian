@@ -11,7 +11,7 @@ Portee:
   - 36 mètres
 Classe:
   - Clerc
-share: "true"
+
 ---
 # `=this.file.name`  
 
@@ -21,7 +21,7 @@ share: "true"
 
 **Portée** : `=this.Portee`
 
-2d8 bouts de bois sont miraculeusement transformés en serpents qui répondent aux ordres du lanceur.
+`dice: (2d8)` bouts de bois sont miraculeusement transformés en serpents qui répondent aux ordres du lanceur.
 
 - **Retour** : S’ils sont tués ou à la fin du sort, les serpents retournent à leur forme originelle de bouts de bois.
 

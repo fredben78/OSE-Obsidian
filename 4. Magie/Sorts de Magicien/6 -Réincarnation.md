@@ -11,7 +11,7 @@ Portee:
   - Apparaît devant le lanceur
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 
@@ -30,7 +30,7 @@ Le jet indique soit une classe de personnage, soit un monstre :
 
 ### Réincarnation : Classe
 
-| d10 | Reincarnation |
+| `dice 1d10` | Reincarnation |
 | :--: | :--- |
 | 1 | [[1. Clerc]] |
 | 2 | [[2. Nain]] |
@@ -44,7 +44,7 @@ Le jet indique soit une classe de personnage, soit un monstre :
 
 ### Réincarnation : Monstres Loyaux
 
-|  d6  | Reincarnation                                                |  HD  |
+|  `dice: 1d6`  | Reincarnation                                                |  HD  |
 | :--: | :----------------------------------------------------------- | :--: |
 |  1   | [[Gnome]] |  1   |
 |  2   | [[Néandertalien (homme des cavernes)]] |  2   |
@@ -54,7 +54,7 @@ Le jet indique soit une classe de personnage, soit un monstre :
 |  6   | [[Petit Roc]] |  6   |
 ### Réincarnation : Monstres Neutres
 
-|  d6  | Reincarnation                                                |  HD  |
+|  `dice: 1d6`  | Reincarnation                                                |  HD  |
 | :--: | :----------------------------------------------------------- | :--: |
 |  1   | [[Pixie\|Pixie]] ou [[Esprit follet]] |  1   |
 |  2   | [[Homme-lézard]] |  2   |
@@ -64,7 +64,7 @@ Le jet indique soit une classe de personnage, soit un monstre :
 |  6   | [[Ours-garou]] |  6   |
 ### Réincarnation : Monstres Chaotiques
 
-| d10  | Reincarnation                                                |  HD  |
+| `dice: 1d10`  | Reincarnation                                                |  HD  |
 | :--: | :----------------------------------------------------------- | :--: |
 |  1   | [[Gobelin]] |  1   |
 |  2   | [[Hobgobelin]] |  1   |

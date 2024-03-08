@@ -11,7 +11,7 @@ Portee:
   - Convoqué devant le lanceur
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 

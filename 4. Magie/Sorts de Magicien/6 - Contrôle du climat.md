@@ -12,7 +12,7 @@ Portee:
   - autour du lanceur
 Classe:
   - Magicien
-share: "true"
+
 ---
 # `=this.file.name`  
 
