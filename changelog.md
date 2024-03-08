@@ -5,4 +5,6 @@ Mise à disposition
 - Correction des liens pointant sur les types de trésors dans les statblock
 - Correction des lancé de dés dans la page "tableaux de rencontres des donjons"
 
-# V1.2 Retrait de la propriété Share 8/03/24
+# V1.2  8/03/24
+- Retrait de la propriété "Share: true"
+- Ajout de lanceur de dés dans les sorts de Clerc et Magicien 
