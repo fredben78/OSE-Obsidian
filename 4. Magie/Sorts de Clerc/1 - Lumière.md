@@ -11,13 +11,15 @@ Portee:
   - 36 mètres
 Classe:
   - Clerc
-
+aliases:
+  - Light
+  - Darkness
 ---
 # `=this.file.name`  
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -28,4 +30,5 @@ Ce sort a trois usages :
 3. **Annuler les ténèbres** : Lumière peut annuler le sort ténèbres (voir ci-dessous)
 
 ## Inversé : Ténèbres
+
 Crée une zone d’obscurité magique dans un rayon de 5 m, privant toute créature de sa vue normale (mais pas d’une éventuelle infravision). À la manière de lumière, sa version réversible, ce sort peut servir à aveugler une créature ou à annuler le sort lumière.

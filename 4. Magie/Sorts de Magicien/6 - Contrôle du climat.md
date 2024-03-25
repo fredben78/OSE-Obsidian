@@ -12,13 +12,14 @@ Portee:
   - autour du lanceur
 Classe:
   - Magicien
-
+aliases:
+  - Control weather
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -33,6 +34,7 @@ En se concentrant (aucun mouvement n’est autorisé), le lanceur modifie le cli
 - **Tornade** : Le lanceur peut diriger la tornade, qui se déplace à une vitesse de 36 m par round. On peut diriger la tornade pour qu’elle produise une attaque (voir statistiques ci-dessous). Les navires pris dans une tornade ont 75 % de chances de subir 12 points de dégâts de coque.
 
 ## Tornade
+
 Une colonne d'air tourbillonnante, haute de 7,20 m et large de 1,80 m, qui cause des ravages aux créatures volantes et aux navires.
 
 **CA** 0 [19], **DV** 12* (54 pv), **Att** 1 × coup `dice: 2d8`, **TAC0** 10 (+9), **DP** 108 m (36 m) vol, **Sv** MP 6 B 7 PP 8 S 8 SSB 10 (12), **Ml** 10, **Al** Neutre, XP 1 900, NA 1 (1), **TT** Aucun

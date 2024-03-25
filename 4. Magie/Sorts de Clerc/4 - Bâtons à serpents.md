@@ -11,13 +11,14 @@ Portee:
   - 36 mètres
 Classe:
   - Clerc
-
+aliases:
+  - Sticks to snakes
 ---
 # `=this.file.name`  
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -26,6 +27,7 @@ Classe:
 - **Retour** : S’ils sont tués ou à la fin du sort, les serpents retournent à leur forme originelle de bouts de bois.
 
 ### Serpents invoqués
+
 ```statblock
 name: Serpents invoqués 
 subtype:
@@ -53,5 +55,3 @@ actions:
     desc: D20 jet d'attaque, 2 (1d4) de dégâts
 source: OSE
 ```
-
-

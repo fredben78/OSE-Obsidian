@@ -11,7 +11,8 @@ Portee:
   - 72 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Conjure elemental
 ---
 # `=this.file.name`  
 
@@ -36,13 +37,11 @@ Restrictions : Le lanceur peut convoquer tout au plus un élémental de chaque p
 creature: Élémental de l'air Supérieur
 ```
 
-
 ## Élémental de Terre Supérieur
 
 ```statblock
 creature: Élémental de terre Supérieur
 ```
-
 
 ## Élémental de feu Supérieur
 

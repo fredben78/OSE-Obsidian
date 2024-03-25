@@ -11,13 +11,14 @@ Portee:
   - Apparaît devant le lanceur
 Classe:
   - Magicien
-
+aliases:
+  - Reincarnation
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -52,6 +53,7 @@ Le jet indique soit une classe de personnage, soit un monstre :
 |  4   | [[Chien esquiveur]] |  4   |
 |  5   | [[Licorne]] |  4   |
 |  6   | [[Petit Roc]] |  6   |
+
 ### Réincarnation : Monstres Neutres
 
 |  `dice: 1d6`  | Reincarnation                                                |  HD  |
@@ -62,6 +64,7 @@ Le jet indique soit une classe de personnage, soit un monstre :
 |  4   | [[Gorille Blanc]] |  4   |
 |  5   | [[Centaure]] |  4   |
 |  6   | [[Ours-garou]] |  6   |
+
 ### Réincarnation : Monstres Chaotiques
 
 | `dice: 1d10`  | Reincarnation                                                |  HD  |
@@ -76,4 +79,3 @@ Le jet indique soit une classe de personnage, soit un monstre :
 |  8   | [[Ogre]] |  4   |
 |  9   | [[Loup-garou]] |  4   |
 |  10  | [[Minotaure]] |  6   |
-

@@ -11,13 +11,14 @@ Portee:
   - 36 mètres
 Classe:
   - Clerc
-
+aliases:
+  - Detect evil
 ---
 # `=this.file.name`  
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 

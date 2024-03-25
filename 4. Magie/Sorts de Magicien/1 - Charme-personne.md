@@ -11,7 +11,8 @@ Portee:
   - 36 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Charm Person
 ---
 # `=this.file.name`  
 

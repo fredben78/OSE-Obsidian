@@ -4,18 +4,23 @@ Type:
 tags:
   - sort
 JDR: OSE
-niveau: 
-Duree: 
+niveau: 5
+Duree:   
+  - Concentration
+  - Jusqu'à
+  - 6 rounds
 Portee: 
+  - 36 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Telekinesis
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 

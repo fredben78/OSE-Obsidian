@@ -11,17 +11,18 @@ Portee:
   - 18 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Knock
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
-Le sort ouverture permet d’ouvrir les portes coincées, barrées ou verrouillées, les portails, les coffres, etc. 
+Le sort ouverture permet d’ouvrir les portes coincées, barrées ou verrouillées, les portails, les coffres, etc.
 
 - **Portes fermées magiquement** : Elles sont affectées par ce sort (ex. fermeture, verrou magique).
 - **Portes secrètes** : Le sort peut les ouvrir à condition que le lanceur soit conscient de leur existence.

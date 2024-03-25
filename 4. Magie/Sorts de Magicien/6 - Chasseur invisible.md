@@ -11,13 +11,14 @@ Portee:
   - Convoqué devant le lanceur
 Classe:
   - Magicien
-
+aliases:
+  - Invisible stalker
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -27,8 +28,8 @@ Un chasseur invisible (voir ci-dessous) est convoqué en présence du lanceur et
 - **Durée** : La créature est liée et tenue de tenter la mission jusqu'à ce qu'elle réussisse ou soit détruite.
 - **Bannissement** : Le sort dissipation du mal bannira un chasseur invisible, mettant fin au sort.
 
-
 ## Chasseur invisible
+
 Créatures magiques très intelligentes convoquées depuis un autre plan d'existence afin d’effectuer des tâches pour de puissants magiciens.
 
 ```statblock

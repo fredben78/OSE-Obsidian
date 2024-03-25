@@ -11,13 +11,14 @@ Portee:
   - 3 mètres
 Classe:
   - Clerc
-
+aliases:
+  - Protection from evil 10' radius
 ---
 # `=this.file.name`  
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee` autour du lanceur
 

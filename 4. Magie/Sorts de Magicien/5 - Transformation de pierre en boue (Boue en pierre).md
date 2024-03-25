@@ -12,13 +12,15 @@ Portee:
   - 36 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Transmute rock to mud
+  - Transmute mud to rock
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` (Transformation de boue en pierre) 
+**Durée** : `=this.Duree` (Transformation de boue en pierre)
 
 **Portée** : `=this.Portee`
 
@@ -27,4 +29,5 @@ Ce sort transforme un volume de jusqu'à 270 m² de pierre en boue de 3 m de pro
 **Déplacement** : Toutes les créatures passant dans la boue voient leur vitesse de déplacement réduite de 90 %.
 
 ## Inversé : Transformation de boue en pierre
+
 Transforme un volume identique de boue en pierre. Cette altération est permanente.

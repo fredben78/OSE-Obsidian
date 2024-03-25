@@ -11,13 +11,15 @@ niveau: 3
 JDR: OSE
 Classe:
   - Clerc
-
+aliases:
+  - Continual light
+  - Continual darkness
 ---
 # `=this.file.name`  (C)
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -28,5 +30,5 @@ Ce sort à trois usages :
 3. **Annuler les ténèbres** : Lumière éternelle annule le sort ténèbres éternelles (voir ci-dessous).
 
 ## Inversé : Ténèbres éternelles
-Crée une zone de ténèbres magiques dans un rayon de 9 m, empêchant à la fois la vision normale et l’infravision. Les sources de lumière à l’intérieur de la zone de ténèbres ne l’éclairent pas. À la manière de lumière éternelle, le sort peut aveugler une créature et annuler lumière éternelle.
 
+Crée une zone de ténèbres magiques dans un rayon de 9 m, empêchant à la fois la vision normale et l’infravision. Les sources de lumière à l’intérieur de la zone de ténèbres ne l’éclairent pas. À la manière de lumière éternelle, le sort peut aveugler une créature et annuler lumière éternelle.

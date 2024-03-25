@@ -13,14 +13,14 @@ Classe:
   - Magicien
 aliases:
   - Nécro-animation
-
+aliases:
+  - Animate dead
 ---
 # `=this.file.name`  (Nécro-animation)
 
-
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 

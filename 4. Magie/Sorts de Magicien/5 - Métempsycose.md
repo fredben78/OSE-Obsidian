@@ -11,13 +11,14 @@ Portee:
   - Le lanceur
 Classe:
   - Magicien
-
+aliases:
+  - Magic jar
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -29,7 +30,6 @@ Le corps du lanceur entre dans une transe comateuse tandis que sa force vitale e
 - **Retour** : À n’importe quel moment, le lanceur peut choisir de retourner dans son propre corps, mettant ainsi fin au sort.
 - **Si le réceptacle est détruit** : Le lanceur meurt.
 - **Si le corps du lanceur est détruit** : Sa force vitale est bloquée dans le réceptacle.
-
 
 **Lorsque la force vitale du lanceur possède une victime :**
 

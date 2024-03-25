@@ -12,7 +12,8 @@ Portee:
   - 144 mètres
 Classe:
   - Clerc
-
+aliases:
+  - Insect plague
 ---
 # `=this.file.name`  
 

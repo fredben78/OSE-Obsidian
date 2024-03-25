@@ -13,13 +13,15 @@ Portee:
   - touchée
 Classe:
   - Clerc
-
+aliases:
+  - Cure Light Wounds 
+  - Cause Light Wounds
 ---
 # `=this.file.name`
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -29,4 +31,5 @@ Ce sort a deux usages :
 2. **Guérir la paralysie** : Les effets paralysants sont annulés.
 
 ## Inversé : Blessures légères
+
 Inflige `dice: 1d6+1` points de dégâts à une créature touchée. En combat, un jet d’attaque de mêlée est nécessaire.

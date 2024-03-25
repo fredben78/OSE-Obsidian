@@ -11,13 +11,14 @@ Portee:
   - Le lanceur
 Classe:
   - Magicien
-
+aliases:
+  - Contact highter plane
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -31,7 +32,6 @@ Un canal de communication est ouvert sur un plan d'existence supérieur, permett
 
 - **Limite d'utilisation** : Il ne peut être lancé tout au plus qu’une fois par semaine (l'arbitre peut autoriser l'utilisation du sort à une fréquence moindre, s’il le souhaite).
 - **Folie** : Le lien avec des êtres d'un autre monde d'une grande puissance peut briser la raison du lanceur. Le risque de base est indiqué dans le tableau ci-dessus. Pour chaque niveau du lanceur supérieur à 11, ce risque est réduit de 5 %. Si le lanceur devient fou à la suite du lien, le temps de récupération correspond à un nombre de semaines égal au numéro du plan contacté.
-
 
 ### Question pour Contact des plans supérieurs
 

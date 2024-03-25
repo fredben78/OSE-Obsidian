@@ -11,13 +11,14 @@ Portee:
   - 18 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Locate object
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee` +3 m par niveau
 

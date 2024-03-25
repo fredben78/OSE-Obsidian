@@ -11,13 +11,14 @@ Portee:
   - 3 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Teleport
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 
@@ -29,6 +30,7 @@ Le lanceur ou une créature choisie disparaît et réapparaît à un endroit cho
 - **Risque** : Il existe un risque, lors de la téléportation, d'arriver accidentellement au-dessus ou au-dessous du niveau du sol. Les chances de réussite de la téléportation dépendent de la connaissance qu’a le lanceur de la destination (voir à droite). Lancez un dé de pourcentage et consultez le tableau ci-dessous.
 
 ## Résultat de la téléportation
+
 Test de téléportation : `dice: 1d100`
 | Connaissance de la dest. | Niveau du sol | Trop haut | Trop bas |
 | :--- | ---- | ---- | ---- |

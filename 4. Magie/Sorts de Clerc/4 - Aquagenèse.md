@@ -11,13 +11,14 @@ Portee:
   - Toucher
 Classe:
   - Clerc
-
+aliases:
+  - Create water
 ---
 # `=this.file.name`  
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
 

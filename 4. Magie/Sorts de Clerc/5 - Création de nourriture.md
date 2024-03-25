@@ -11,13 +11,14 @@ Portee:
   - Le lanceur
 Classe:
   - Clerc
-
+aliases:
+  - Create food
 ---
 # `=this.file.name`  
 
 [[4. Sorts de clerc|Sorts de clerc]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : Apparaît devant `=this.Portee`
 

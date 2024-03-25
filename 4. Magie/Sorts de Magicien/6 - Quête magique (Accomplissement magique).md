@@ -13,16 +13,17 @@ Portee:
   - 9 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Geas
+  - Remove geas
 ---
 # `=this.file.name`  
 
 [[5. Sorts de magicien|Sorts de magicien]] `=this.niveau`e Niveau
 
-**Durée** : `=this.Duree` 
+**Durée** : `=this.Duree`
 
 **Portée** : `=this.Portee`
-
 
 Le lanceur ordonne à une cible d'effectuer ou d'éviter d'effectuer une action spécifique.
 

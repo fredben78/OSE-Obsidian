@@ -11,7 +11,8 @@ Portee:
   - 36 mètres
 Classe:
   - Magicien
-
+aliases:
+  - Invisibility 10' radius
 ---
 # `=this.file.name`  
 
