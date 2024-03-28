@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of invulnerability
 ---
 # Potion d’invulnérabilité
 

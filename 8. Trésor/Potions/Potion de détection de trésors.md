@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of treasure finding
 ---
 # Potion de détection de trésors
 

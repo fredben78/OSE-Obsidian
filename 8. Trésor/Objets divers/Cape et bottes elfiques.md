@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Elven cloak and boots
 ---
 # Cape et bottes elfiques
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of ESP
 ---
 # Potion d’ESP
 

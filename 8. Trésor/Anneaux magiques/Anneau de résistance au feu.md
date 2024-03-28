@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Fire resistance ring
 ---
 # Anneau de résistance au feu
 

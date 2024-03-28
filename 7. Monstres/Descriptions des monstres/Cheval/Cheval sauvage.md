@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Wild horse
 ---
 # `=this.file.name`
 

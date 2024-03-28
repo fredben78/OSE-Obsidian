@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Green slime
 ---
 # `=this.file.name`
 

@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Insect swarm
 ---
 # `=this.file.name`
 

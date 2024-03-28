@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - War horse
 ---
 # `=this.file.name`
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of flying
 ---
 # Potion de vol
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Bag of devouring
 ---
 Un petit sac d’apparence normale qui dévore les objets placés à l’intérieur.
 

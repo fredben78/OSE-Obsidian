@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Shrieker
 ---
 # `=this.file.name`
 

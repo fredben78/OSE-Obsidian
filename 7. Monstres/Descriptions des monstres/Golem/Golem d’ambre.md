@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Amber golem
 ---
 # `=this.file.name`
 

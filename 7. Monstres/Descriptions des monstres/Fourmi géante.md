@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Driver ant
 ---
 # `=this.file.name`
 

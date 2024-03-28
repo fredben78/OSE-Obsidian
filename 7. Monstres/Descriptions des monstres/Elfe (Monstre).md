@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Elf (monster)
 ---
 # `=this.file.name`
 

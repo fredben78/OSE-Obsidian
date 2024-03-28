@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Minotaur
 ---
 # `=this.file.name`
 

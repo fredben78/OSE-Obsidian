@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Flame salamander
 ---
 # `=this.file.name`
 

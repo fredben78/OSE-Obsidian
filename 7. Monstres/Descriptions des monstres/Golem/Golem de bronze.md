@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Bronze golem
 ---
 # `=this.file.name`
 

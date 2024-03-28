@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Delusion ring
 ---
 # Anneau de tromperie
 

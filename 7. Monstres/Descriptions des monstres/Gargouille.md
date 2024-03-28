@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Gargoyle
 ---
 # `=this.file.name`
 

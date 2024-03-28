@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Sprite
 ---
 # `=this.file.name`
 

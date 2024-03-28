@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wishes ring
 ---
 # Anneau de souhait
 

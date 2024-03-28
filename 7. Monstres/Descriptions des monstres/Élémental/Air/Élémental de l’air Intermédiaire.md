@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Air elemental (intermediate)
 ---
 # `=this.file.name`
 

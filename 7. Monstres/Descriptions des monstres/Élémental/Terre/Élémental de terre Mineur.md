@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Earth elemental (lesser)
 ---
 # `=this.file.name`
 

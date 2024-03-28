@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Sea serpent (lesser)
 ---
 # `=this.file.name`
 

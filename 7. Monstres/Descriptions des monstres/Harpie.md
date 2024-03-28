@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Harpy
 ---
 # `=this.file.name`
 

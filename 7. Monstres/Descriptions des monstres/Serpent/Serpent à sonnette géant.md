@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Giant rattler
 ---
 # `=this.file.name`
 

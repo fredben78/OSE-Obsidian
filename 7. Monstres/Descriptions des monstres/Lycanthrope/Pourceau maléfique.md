@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Devil Swine
 ---
 # `=this.file.name`
 

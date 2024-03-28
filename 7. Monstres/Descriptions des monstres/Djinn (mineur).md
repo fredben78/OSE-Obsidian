@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Djinni (lesser)
 ---
 # `=this.file.name`
 

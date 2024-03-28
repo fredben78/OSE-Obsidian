@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Fire Beetle
 ---
 # `=this.file.name`
 

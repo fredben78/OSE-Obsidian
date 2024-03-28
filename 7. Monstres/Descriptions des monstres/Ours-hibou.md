@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Owl bear
 ---
 # `=this.file.name`
 

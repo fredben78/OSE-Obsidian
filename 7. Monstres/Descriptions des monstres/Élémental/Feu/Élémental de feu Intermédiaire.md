@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Fire elemental (intermediate)
 ---
 # `=this.file.name`
 

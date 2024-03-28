@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - medium herd animal
 ---
 # `=this.file.name`
 

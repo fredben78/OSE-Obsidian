@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of fire balls
 ---
 # Baguette de boules de feu
 

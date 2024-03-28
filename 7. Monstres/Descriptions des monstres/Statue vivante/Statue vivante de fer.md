@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Iron living statue
 ---
 # `=this.file.name`
 

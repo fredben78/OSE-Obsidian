@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Invisibility ring
 ---
 
 # Anneau d'invisibilité

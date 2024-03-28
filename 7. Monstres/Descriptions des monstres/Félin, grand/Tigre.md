@@ -6,6 +6,9 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Cat
+  - Tiger
 ---
 # `=this.file.name`
 

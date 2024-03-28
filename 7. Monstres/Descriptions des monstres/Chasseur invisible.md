@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Invisible stalker
 ---
 # `=this.file.name`
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Staff of snakes
 ---
 # Bâton serpent
 

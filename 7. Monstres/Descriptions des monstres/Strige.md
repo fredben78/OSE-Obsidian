@@ -5,7 +5,8 @@ Type:
 
 tags:
   - monster
-statblock: inline
+statblock: inlinealiases:
+  - Stirge
 ---
 # `=this.file.name`
 

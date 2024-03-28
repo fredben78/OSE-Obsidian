@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of ennemy detection
 ---
 # Baguette de détection de l'ennemi
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Boots of speed
 ---
 # Bottes de rapidité
 

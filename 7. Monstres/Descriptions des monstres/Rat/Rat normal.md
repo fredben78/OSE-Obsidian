@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Normal rat
 ---
 # `=this.file.name`
 

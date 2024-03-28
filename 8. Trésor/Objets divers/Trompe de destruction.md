@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Horn of blasting
 ---
 # Trompe de destruction
 

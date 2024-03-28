@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Water elemental (greater)
 ---
 # `=this.file.name`
 

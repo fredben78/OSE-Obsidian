@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Storm giant
 ---
 # `=this.file.name`
 

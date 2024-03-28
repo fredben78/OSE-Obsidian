@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Control animals ring
 ---
 # Anneau de contrôle des animaux
 

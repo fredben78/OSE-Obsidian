@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Medallion of ESP 90'
 ---
 # Médaillon d’ESP sur 27 m
 

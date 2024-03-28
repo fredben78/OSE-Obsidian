@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Frost salamander
 ---
 # `=this.file.name`
 

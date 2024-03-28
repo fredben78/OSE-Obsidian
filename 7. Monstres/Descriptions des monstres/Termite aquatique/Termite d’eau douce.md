@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Freshwater termite
 ---
 # `=this.file.name`
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - X-ray vision ring
 ---
 # Anneau de rayons X
 

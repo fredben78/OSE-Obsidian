@@ -6,6 +6,9 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - cat
+  - Mountain lion
 ---
 # `=this.file.name`
 

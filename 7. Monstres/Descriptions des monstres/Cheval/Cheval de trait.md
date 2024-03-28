@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - draft horse
 ---
 # `=this.file.name`
 
@@ -33,6 +35,10 @@ columns: 1
 traits:
   - name: Nom combattants
     desc: Il fuit si il est attaqué
+  - name: Bête de somme
+  - desc: "Il peut transporter jusqu’à 4 500 pièces en charge normale et jusqu’à 9 000 pièces surchargé et à la moitié de sa vitesse."
+  - name: Domestique
+  - desc: "On ne le rencontre pas dans la nature sauvage.
 actions:
   - name:
     desc: 

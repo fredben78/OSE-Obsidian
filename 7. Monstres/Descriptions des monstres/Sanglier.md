@@ -1,5 +1,16 @@
-# `=this.file.name`
+---
+JDR: OSE
+Type:
+  - core
 
+tags:
+  - monster
+statblock: inline
+aliases:
+  - Boar
+---
+
+# `=this.file.name`
 ---
 ```statblock
 layout: OSE

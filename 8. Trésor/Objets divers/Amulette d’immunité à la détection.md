@@ -2,7 +2,8 @@
 JDR: OSE
 Type:
   - core
-
+aliases:
+  - Amulet of protection against scrying
 ---
 # Amulette d’immunité à la détection
 

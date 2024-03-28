@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Grizzly bear
 ---
 # `=this.file.name`
 

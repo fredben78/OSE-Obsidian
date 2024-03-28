@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of trap detection
 ---
 # Baguette de détection des pièges
 

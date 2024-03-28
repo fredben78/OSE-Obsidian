@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Mirror of life trapping
 ---
 # Miroir piégeur
 

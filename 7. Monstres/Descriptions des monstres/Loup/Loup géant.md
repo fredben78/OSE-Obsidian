@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Dire wolf
 ---
 # `=this.file.name`
 

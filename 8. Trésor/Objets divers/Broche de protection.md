@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Scarab of protection
 ---
 # Broche de protection
 

@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Halfling (monster)
 ---
 # `=this.file.name`
 

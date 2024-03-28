@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of metal detection
 ---
 # Baguette de détection des métaux
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Efreeti bottle
 ---
 # Bouteille d’éfrit
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Control plants ring
 ---
 # Anneau de contrôle des plantes
 

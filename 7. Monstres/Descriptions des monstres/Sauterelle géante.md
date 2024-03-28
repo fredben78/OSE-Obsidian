@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Cave locust
 ---
 # `=this.file.name`
 

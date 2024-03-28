@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of secret door detection
 ---
 # Baguette de détection des passages secrets
 

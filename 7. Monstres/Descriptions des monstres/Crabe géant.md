@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Giant crab
 ---
 # `=this.file.name`
 

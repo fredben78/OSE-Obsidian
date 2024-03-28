@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Grey ooze
 ---
 # `=this.file.name`
 

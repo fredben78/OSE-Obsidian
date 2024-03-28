@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of clairaudience
 ---
 # Potion de clairaudience
 

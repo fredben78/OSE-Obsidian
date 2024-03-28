@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Spell turning ring
 ---
 # Anneau de retour de sort
 

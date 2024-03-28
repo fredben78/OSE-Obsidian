@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Spell Storing ring
 ---
 # Anneau d'accumulation de sorts
 

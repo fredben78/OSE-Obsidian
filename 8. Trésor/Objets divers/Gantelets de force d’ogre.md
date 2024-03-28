@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Gauntlets of ogre power
 ---
 # Gantelets de force d’ogre
 

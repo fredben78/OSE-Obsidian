@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Regeneration ring
 ---
 # Anneau de régénération
 

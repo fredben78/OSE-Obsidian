@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Flying carpet
 ---
 # Tapis volant
 

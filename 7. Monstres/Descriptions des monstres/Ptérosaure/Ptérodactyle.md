@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Pterodactyl
 ---
 # `=this.file.name`
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of heroism
 ---
 # Potion d’héroïsme
 

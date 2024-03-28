@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Rope of climbing
 ---
 # Corde d’escalade
 

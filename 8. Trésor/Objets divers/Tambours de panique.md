@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Drums of panic
 ---
 # Tambours de panique
 

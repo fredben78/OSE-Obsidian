@@ -6,8 +6,10 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Cyclops
 ---
-# `=this.file.name` 
+# `=this.file.name`
 
 ---
 

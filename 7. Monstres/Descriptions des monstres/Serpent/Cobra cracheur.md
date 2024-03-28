@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Spitting cobra
 ---
 # `=this.file.name`
 

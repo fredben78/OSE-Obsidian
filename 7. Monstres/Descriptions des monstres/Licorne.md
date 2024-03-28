@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Unicorn
 ---
 # `=this.file.name`
 

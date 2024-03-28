@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - White dragon
 ---
 # `=this.file.name`
 

@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Telekinesis ring
 ---
 # Anneau de télékinésie
 

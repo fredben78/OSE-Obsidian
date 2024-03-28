@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Doppelgänger
 ---
 # `=this.file.name`
 

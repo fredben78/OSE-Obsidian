@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Rust monster
 ---
 # `=this.file.name`
 

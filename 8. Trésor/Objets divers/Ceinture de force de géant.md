@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Girdle of giant strenght
 ---
 # Ceinture de force de géant
 

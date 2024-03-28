@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Mako shark
 ---
 # `=this.file.name`
 

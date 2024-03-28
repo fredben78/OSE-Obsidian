@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: true
+aliases:
+  - Ghoul
 ---
 # `=this.file.name`
 

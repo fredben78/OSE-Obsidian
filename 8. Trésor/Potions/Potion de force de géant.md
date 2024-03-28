@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of giant strength
 ---
 # Potion de force de géant
 

@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Blink dog
 ---
 # Chien esquiveur
 

@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Carcass crawler
 ---
 
 # `=this.file.name`

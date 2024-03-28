@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Boots of travelling and leaping
 ---
 # Bottes de sept lieues
 

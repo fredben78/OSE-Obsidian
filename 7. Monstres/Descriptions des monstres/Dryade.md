@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Dryad
 ---
 # `=this.file.name`
 

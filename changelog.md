@@ -1,8 +1,16 @@
+# V1.5 28/03/24
+
+- Ajouts des noms VO des monstres et objets magiques (anneaux, potions, baton...)
+- Ajout des templates de monstres et de sorts.
+
+# V1.4 26/03/24
+
+- Ajout des mentions légales
 
 # V1.3 25/03/24
 
 - Correction du sort télékinésie
-- Ajoutes des noms VO des sorts de Clerc et de Magicien en propriété "aliases" afin de pouvoir les trouver via une recherche ou les linker dans une page.
+- Ajouts des noms VO des sorts de Clerc et de Magicien en propriété "aliases" afin de pouvoir les trouver via une recherche ou les linker dans une page.
 
 # V1.2  8/03/24
 

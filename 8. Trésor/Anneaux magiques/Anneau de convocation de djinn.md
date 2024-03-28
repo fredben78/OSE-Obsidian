@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Djinni Summoning ring
 ---
 # Anneau de convocation de djinn
 

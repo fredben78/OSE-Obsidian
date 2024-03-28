@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Hill giant
 ---
 # `=this.file.name`
 

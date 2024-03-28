@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Warp beast
 ---
 # `=this.file.name`
 

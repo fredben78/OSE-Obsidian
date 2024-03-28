@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Displacer cloak
 ---
 # Cape éclipsante
 

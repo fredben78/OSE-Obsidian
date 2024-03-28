@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of Gaseous form
 ---
 # Potion de forme gazeuse
 

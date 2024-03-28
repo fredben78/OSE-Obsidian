@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of Polymorph
 ---
 # Baguette de métamorphose
 

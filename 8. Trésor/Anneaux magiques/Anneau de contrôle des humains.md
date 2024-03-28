@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Control humans ring
 ---
 # Anneau de contrôle des humains
 

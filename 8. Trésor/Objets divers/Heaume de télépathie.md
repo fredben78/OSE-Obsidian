@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Helm of telepathy
 ---
 # Heaume de télépathie
 

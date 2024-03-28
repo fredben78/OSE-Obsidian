@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Road of cancellation
 ---
 # Sceptre d'annulation
 

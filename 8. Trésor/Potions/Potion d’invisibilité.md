@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of invisibility
 ---
 # Potion d’invisibilité
 

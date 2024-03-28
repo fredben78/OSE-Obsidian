@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Crystal ball
 ---
 # Boule de cristal
 

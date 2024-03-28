@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Horned Chameleon
 ---
 # `=this.file.name`
 

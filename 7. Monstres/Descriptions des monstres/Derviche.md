@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Dervish
 ---
 # `=this.file.name`
 

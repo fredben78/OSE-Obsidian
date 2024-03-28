@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Helm of reading languages and magic
 ---
 # Heaume de lecture des langues et de la magie
 

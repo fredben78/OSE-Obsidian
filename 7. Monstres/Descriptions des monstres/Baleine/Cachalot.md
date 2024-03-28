@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Sperm whale
 ---
 # `=this.file.name`
 

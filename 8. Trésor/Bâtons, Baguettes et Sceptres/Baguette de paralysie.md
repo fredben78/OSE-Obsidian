@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of paralysation
 ---
 # Baguette de paralysie
 

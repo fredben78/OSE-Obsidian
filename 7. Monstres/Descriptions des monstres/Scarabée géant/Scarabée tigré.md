@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Tiger beetle
 ---
 # `=this.file.name`
 

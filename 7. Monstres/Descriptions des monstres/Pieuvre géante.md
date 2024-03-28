@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Giant Octopus 
 ---
 # `=this.file.name`
 

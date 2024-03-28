@@ -1,7 +1,13 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of control Animal
+  - Potion of control Dragon
+  - Potion of control Giant
+  - Potion of control human
+  - Potion of control Plant
+  - Potion of control Undead 
 ---
 # Potion de contrôle
 

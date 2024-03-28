@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Green dragon
 ---
 # `=this.file.name`
 

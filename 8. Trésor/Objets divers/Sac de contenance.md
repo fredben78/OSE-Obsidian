@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Bag of holding
 ---
 
 # Sac de contenance

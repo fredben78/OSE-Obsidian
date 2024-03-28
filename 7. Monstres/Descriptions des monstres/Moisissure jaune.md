@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Yellow mould
 ---
 # `=this.file.name`
 

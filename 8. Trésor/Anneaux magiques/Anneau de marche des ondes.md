@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Water walking ring
 ---
 # Anneau de marche des ondes
 

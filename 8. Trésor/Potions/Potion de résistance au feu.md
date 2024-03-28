@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Potion of fire resistance
 ---
 # Potion de résistance au feu
 

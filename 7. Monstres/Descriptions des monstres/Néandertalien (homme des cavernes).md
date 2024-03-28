@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Neanderthal (caverman)
 ---
 # `=this.file.name`
 

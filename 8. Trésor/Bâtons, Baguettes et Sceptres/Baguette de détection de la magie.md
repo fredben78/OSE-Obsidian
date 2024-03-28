@@ -1,7 +1,8 @@
 ---
 JDR: OSE
 Type: core
-
+aliases:
+  - Wand of magic detection
 ---
 # Baguette de détection de la magie
 

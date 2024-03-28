@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Normal wolf
 ---
 # `=this.file.name`
 

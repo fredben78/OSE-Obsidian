@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - Swamp termite
 ---
 # `=this.file.name`
 

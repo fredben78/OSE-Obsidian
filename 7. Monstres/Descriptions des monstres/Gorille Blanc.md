@@ -6,6 +6,8 @@ Type:
 tags:
   - monster
 statblock: inline
+aliases:
+  - White ape 
 ---
 # Gorille Blanc
 
@@ -41,5 +43,3 @@ source: OSE
 ```
 
 ---
-
-
